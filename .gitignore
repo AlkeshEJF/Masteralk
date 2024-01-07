@@ -1,0 +1,15 @@
+# Ignore compiled files
+*.class
+*.jar
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore build directories
+target/
+bin/
+.classpath
+.project
+.settings/
+pom.xml
